@@ -1,3 +1,5 @@
+[toc]
+
 # 关于这个仓库
 
 这个仓库是我学习NLP相关知识的笔记，将结合一些示例，做成一个学习NLP的入门级教程。本仓库的代码或者公式文字若存在描述不清的地方或者错误的地方，还请直接指出。我期望在您的帮助下把这个教程做成更好。
@@ -22,8 +24,88 @@
 
 [线性回归](ml/linear_regression.ipynb)是回归类问题中的一个经典算法，原理简单，在[代码](code/1_linear_regression.ipynb)上也及容易实现。
 
+说道回归，就不得不提一下[逻辑回归](ml/logistic_regression.ipynb), 当然，逻辑回归不是回归，而是解决分类的问题。
+
+[朴素贝叶斯](ml/naive_bayes.ipynb)
+
+[Smoothing]
+
+[支持向量机](ml/svm.ipynb)
+
+[LASSO]
+
+[正则化]
+
+[EM]
+
+[隐马尔可夫模型]
+
+[条件随机场]
+
+
+
 ## 深度学习
 
+[前馈神经网络]
 
+[卷积神经网络]
+
+[循环神经网络]
+
+[长短期记忆网络]
+
+[Evalution Method]
+
+
+
+[GRU]
+
+[Dropout处理]
+
+[梯度下降法]
+
+[动量法]
+
+[AdaGrad]
+
+[RMSprop]
+
+[AdaDelta]
+
+[Adam]
 
 ## NLP
+
+[分词]
+
+[Language Model]
+
+[PerPlexity]
+
+[Sequence Tag]
+
+[Word Embedding]
+
+[fastText]
+
+[GloVe]
+
+[编辑距离]
+
+[近义词]
+
+[文本分类]
+
+[信息抽取]
+
+[文本摘要]
+
+[seq2seq]
+
+# 安装包
+
+- Numpy
+- Pandas
+- Matplotplot
+- Pytorch
+- scikit-learn
