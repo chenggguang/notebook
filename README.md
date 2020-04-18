@@ -24,7 +24,7 @@
 
 [线性回归](ml/linear_regression.ipynb)是回归类问题中的一个经典算法，原理简单，在[代码](code/1_linear_regression.ipynb)上也及容易实现。
 
-说道回归，就不得不提一下[逻辑回归](ml/logistic_regression.ipynb), 当然，逻辑回归不是回归，而是解决分类的问题。
+说到回归，就不得不提一下[逻辑回归](ml/logistic_regression.ipynb), 当然，逻辑回归不是回归，而是解决分类的问题。
 
 [朴素贝叶斯](ml/naive_bayes.ipynb)
 
