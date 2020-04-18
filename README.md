@@ -38,7 +38,7 @@
 
 [EM](ml/em.ipynb)
 
-[隐马尔可夫模型]
+[隐马尔可夫模型](ml/hmm.ipynb)
 
 [条件随机场]
 
@@ -55,8 +55,6 @@
 [长短期记忆网络]
 
 [Evalution Method]
-
-
 
 [GRU]
 
