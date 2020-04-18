@@ -38,7 +38,7 @@
 
 [EM](ml/em.ipynb)
 
-[隐马尔可夫模型](ml/hmm.ipynb)
+[隐马尔可夫模型](ml/hmm.ipynb)在序列标注任务上应用广泛。
 
 [条件随机场]
 
