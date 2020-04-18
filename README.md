@@ -30,7 +30,7 @@
 
 [Smoothing]
 
-[支持向量机](ml/svm.ipynb)
+[支持向量机](ml/svm.ipynb)是机器学习算法中，分类效果极好的一种，可以调用sklearn[实现](code/4_svm.ipynb)
 
 [LASSO]
 
