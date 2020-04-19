@@ -22,7 +22,7 @@
 
 ## 机器学习
 
-[线性回归](ml/linear_regression.ipynb)是回归类问题中的一个经典算法，原理简单，在[代码](code/1_linear_regression.ipynb)上也及容易实现。
+[线性回归](ml/linear_regression.ipynb)是回归类问题中的一个经典算法，原理简单，在[代码](code/1_linear_regression.ipynb)上也及容易实现。同属于回归问题的还有[LASSO](ml/lasso.ipynb)和[Ridge](ml/ridge_regression.ipynb)，他们是普通线性回归经过L1和L2[正则化](ml/regularization.ipynb)后的模型。
 
 说到回归，就不得不提一下[逻辑回归](ml/logistic_regression.ipynb), 当然，逻辑回归不是回归，而是解决分类的问题。
 
@@ -31,10 +31,6 @@
 [Smoothing]
 
 [支持向量机](ml/svm.ipynb)是机器学习算法中，分类效果极好的一种，可以调用sklearn[实现](code/4_svm.ipynb)
-
-[LASSO]
-
-[正则化]
 
 [EM](ml/em.ipynb)
 
