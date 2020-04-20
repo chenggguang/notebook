@@ -1,21 +1,24 @@
 .
 ├── README.md
 ├── code
-│   ├── 1_linear_regression.ipynb
-│   ├── 2_logistic_regression.ipynb
-│   ├── 3_naive_bayes.ipynb
-│   ├── 4_svm.ipynb
-│   ├── 5_hmm.ipynb
-│   ├── 6_lasso.ipynb
-│   └── 7_ridge.ipynb
+│   └── ml
+│       ├── 1_linear_regression.ipynb
+│       ├── 2_logistic_regression.ipynb
+│       ├── 3_naive_bayes.ipynb
+│       ├── 4_svm.ipynb
+│       ├── 5_hmm.ipynb
+│       ├── 6_lasso.ipynb
+│       └── 7_ridge.ipynb
 ├── dl
 │   ├── cnn.ipynb
+│   ├── evalution.ipynb
 │   ├── fnn.ipynb
 │   ├── gru.ipynb
+│   ├── imgs
+│   │   └── eva1.gif
 │   ├── lstm.ipynb
 │   ├── rnn.ipynb
-│   ├── transformer.ipynb
-│   └── word_embedding.ipynb
+│   └── transformer.ipynb
 ├── index
 ├── math
 │   ├── derivative.ipynb
@@ -38,5 +41,7 @@
 │   ├── ridge_regression.ipynb
 │   └── svm.ipynb
 └── nlp
+    ├── language_model.ipynb
+    └── perplexity.ipynb
 
-7 directories, 32 files
+9 directories, 35 files

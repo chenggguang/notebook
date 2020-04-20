@@ -37,21 +37,21 @@
 
 ### 回归类问题
 
-|                  模型 or 算法                   |                                          examplee |
-| :---------------------------------------------: | ------------------------------------------------: |
-| [Linear Regression](ml/linear_regression.ipynb) | [pytorch exmaple](code/1_linear_regression.ipynb) |
-|             [LASSO](ml/lasso.ipynb)             |          [Coordinate Descent](code/6_lasso.ipynb) |
-|  [Ridge Regression](ml/ridge_regression.ipynb)  |                    [解析式法](code/7_ridge.ipynb) |
+|                  模型 or 算法                   |                                             examplee |
+| :---------------------------------------------: | ---------------------------------------------------: |
+| [Linear Regression](ml/linear_regression.ipynb) | [pytorch exmaple](code/ml/1_linear_regression.ipynb) |
+|             [LASSO](ml/lasso.ipynb)             |          [Coordinate Descent](code/ml/6_lasso.ipynb) |
+|  [Ridge Regression](ml/ridge_regression.ipynb)  |                    [解析式法](code/ml/7_ridge.ipynb) |
 
 
 
 ### 分类问题
 
-|                    模型 or 算法                     |                       EXamples                       |
-| :-------------------------------------------------: | :--------------------------------------------------: |
-| [Logistic Regression](ml/logistic_regression.ipynb) | [pytorch example](code/2_logistic_regression.ipynb/) |
-|         [Naive Bayes](ml/naive_bayes.ipynb)         |      [pandas example](code/3_naive_bayes.ipynb)      |
-|       [Support Vector Machine](ml/svm.ipynb)        |       [sklearn api example](code/4_svm.ipynb)        |
+|                    模型 or 算法                     |                        EXamples                         |
+| :-------------------------------------------------: | :-----------------------------------------------------: |
+| [Logistic Regression](ml/logistic_regression.ipynb) | [pytorch example](code/ml/2_logistic_regression.ipynb/) |
+|         [Naive Bayes](ml/naive_bayes.ipynb)         |      [pandas example](code/ml/3_naive_bayes.ipynb)      |
+|       [Support Vector Machine](ml/svm.ipynb)        |       [sklearn api example](code/ml/4_svm.ipynb)        |
 
 ​				
 
@@ -61,7 +61,7 @@
 
 |               模型 Or 算法               | ExAMPles                                                     |
 | :--------------------------------------: | ------------------------------------------------------------ |
-|   [Hidden Markov Model](ml/hmm.ipynb)    | [numpy example](code/5_hmm.ipynb)                            |
+|   [Hidden Markov Model](ml/hmm.ipynb)    | [numpy example](code/ml/5_hmm.ipynb)                         |
 | [Conditional Random Field](ml/crf.ipynb) | [LSTM + CRF](http://pytorch123.com/FifthSection/Dynamic_Desicion_Bi-LSTM/) |
 
 
