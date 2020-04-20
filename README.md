@@ -2,11 +2,20 @@
 
 # 关于这个仓库
 
-这个仓库是我学习NLP相关知识的笔记，将结合一些示例，做成一个学习NLP的入门级教程。本仓库的代码或者公式文字若存在描述不清的地方或者错误的地方，还请直接指出。我期望在您的帮助下把这个教程做成更好。
+这个仓库是我学习NLP相关知识的笔记，将结合一些示例，做成一个学习NLP的入门级教程。本仓库的代码或者公式文字若存在描述不清的地方或者错误的地方，还请直接指出。我期望在您的帮助下把这个笔记仓库做成更好。
 
-教程采用jupyter lab结合一个Python内核编写，所以，若果您有兴趣读下去，那么请clone或者fork本仓库，运行一个jupyter环境浏览。
+所有内容由jupyter lab结合一个Python内核编写，所以，若果您有兴趣读下去，那么请clone或者fork本仓库，运行一个jupyter环境浏览。
+
+笔记的参考内容包括但不限于：
+
+- 李航<<统计学习方法>>第二版
+- 邱锡鹏<<神经网络与深度学习>>
+- B站[白板推导](https://www.bilibili.com/video/BV1aE411o7qd)系列
+- 知乎上的一些专栏或者回答
 
 # 知识点
+
+如果需要直接查看整个仓库包含了那些文件可以参数[index](index), 或者在终端中使用tree工具。
 
 ## 数学基础
 
@@ -50,68 +59,56 @@
 
 ### 序列标注问题
 
-|               模型 Or 算法               | ExAMPles                          |
-| :--------------------------------------: | --------------------------------- |
-|   [Hidden Markov Model](ml/hmm.ipynb)    | [numpy example](code/5_hmm.ipynb) |
-| [Conditional Random Field](ml/crf.ipynb) | None                              |
+|               模型 Or 算法               | ExAMPles                                                     |
+| :--------------------------------------: | ------------------------------------------------------------ |
+|   [Hidden Markov Model](ml/hmm.ipynb)    | [numpy example](code/5_hmm.ipynb)                            |
+| [Conditional Random Field](ml/crf.ipynb) | [LSTM + CRF](http://pytorch123.com/FifthSection/Dynamic_Desicion_Bi-LSTM/) |
 
 
 
 ## 深度学习
 
-[前馈神经网络]
 
-[卷积神经网络]
 
-[循环神经网络]
+|    模型 or 算法     | exampleS |
+| :-----------------: | :------: |
+|   [前馈神经网络]    |          |
+|   [卷积神经网络]    |          |
+|   [循环神经网络]    |          |
+|  [长短期记忆网络]   |          |
+| [Attention Machism] |          |
+|    [Transformer]    |          |
+| [Evalution Method]  |          |
+|        [GRU]        |          |
+|    [梯度下降法]     |          |
+|      [动量法]       |          |
+|      [AdaGrad]      |          |
+|      [RMSprop]      |          |
+|     [AdaDelta]      |          |
+|       [Adam]        |          |
 
-[长短期记忆网络]
 
-[Evalution Method]
-
-[GRU]
-
-[Dropout处理]
-
-[梯度下降法]
-
-[动量法]
-
-[AdaGrad]
-
-[RMSprop]
-
-[AdaDelta]
-
-[Adam]
 
 ## NLP
 
-[分词]
+|   模型 OR算法    | ExAMPLE |
+| :--------------: | :-----: |
+|      [分词]      |         |
+| [Language Model] |         |
+|   [PerPlexity]   |         |
+|  [Sequence Tag]  |         |
+| [Word Embedding] |         |
+|    [fastText]    |         |
+|     [GloVe]      |         |
+|    [编辑距离]    |         |
+|     [近义词]     |         |
+|    [文本分类]    |         |
+|    [信息抽取]    |         |
+|    [文本摘要]    |         |
+|    [seq2seq]     |         |
+|                  |         |
 
-[Language Model]
 
-[PerPlexity]
-
-[Sequence Tag]
-
-[Word Embedding]
-
-[fastText]
-
-[GloVe]
-
-[编辑距离]
-
-[近义词]
-
-[文本分类]
-
-[信息抽取]
-
-[文本摘要]
-
-[seq2seq]
 
 # 安装包
 

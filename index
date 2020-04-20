@@ -1,0 +1,42 @@
+.
+├── README.md
+├── code
+│   ├── 1_linear_regression.ipynb
+│   ├── 2_logistic_regression.ipynb
+│   ├── 3_naive_bayes.ipynb
+│   ├── 4_svm.ipynb
+│   ├── 5_hmm.ipynb
+│   ├── 6_lasso.ipynb
+│   └── 7_ridge.ipynb
+├── dl
+│   ├── cnn.ipynb
+│   ├── fnn.ipynb
+│   ├── gru.ipynb
+│   ├── lstm.ipynb
+│   ├── rnn.ipynb
+│   ├── transformer.ipynb
+│   └── word_embedding.ipynb
+├── index
+├── math
+│   ├── derivative.ipynb
+│   ├── likehood.ipynb
+│   ├── smoothing.ipynb
+│   └── softmax.ipynb
+├── ml
+│   ├── crf.ipynb
+│   ├── data
+│   ├── em.ipynb
+│   ├── hmm.ipynb
+│   ├── imgs
+│   │   ├── lr1.png
+│   │   └── re1.jpeg
+│   ├── lasso.ipynb
+│   ├── linear_regression.ipynb
+│   ├── logistic_regression.ipynb
+│   ├── naive_bayes.ipynb
+│   ├── regularization.ipynb
+│   ├── ridge_regression.ipynb
+│   └── svm.ipynb
+└── nlp
+
+7 directories, 32 files
