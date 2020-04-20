@@ -23,17 +23,17 @@
 
 [softmax](math/softmax.ipynb)在数据归一化已经分类问题中有着广泛的应用本笔记将其与交叉熵结合，并推到了其求导公式。
 
-[Likehood][math/likehood.ipynb]在很多机器学习算法的公式推导中，优化的目标都是一个MLE或者MAP的表达式。
+[Likehood](math/likehood.ipynb)在很多机器学习算法的公式推导中，优化的目标都是一个MLE或者MAP的表达式。
 
-[Smoothing](math/smoothing.ipynb)  //todo 为语言模型添加链接
+[Smoothing](math/smoothing.ipynb) 是为了平滑经过MLE或者MAP估计的参数。
 
 ## 机器学习
 
 
 
-[EM](ml/em.ipynb)
+[EM](ml/em.ipynb)是一种思想，在无监督的情况下对参数进行估计。
 
-[Regularization](ml/regularization.ipynb)
+[Regularization](ml/regularization.ipynb)是机器学习和深度学习算法都需要处理的问题，目的是防止模型过拟合。
 
 ### 回归类问题
 
@@ -42,8 +42,6 @@
 | [Linear Regression](ml/linear_regression.ipynb) | [pytorch exmaple](code/ml/1_linear_regression.ipynb) |
 |             [LASSO](ml/lasso.ipynb)             |          [Coordinate Descent](code/ml/6_lasso.ipynb) |
 |  [Ridge Regression](ml/ridge_regression.ipynb)  |                    [解析式法](code/ml/7_ridge.ipynb) |
-
-
 
 ### 分类问题
 
@@ -62,11 +60,7 @@
 |   [Hidden Markov Model](ml/hmm.ipynb)    | [numpy example](code/ml/5_hmm.ipynb)                         |
 | [Conditional Random Field](ml/crf.ipynb) | [LSTM + CRF](http://pytorch123.com/FifthSection/Dynamic_Desicion_Bi-LSTM/) |
 
-
-
 ## 深度学习
-
-
 
 |               模型 or 算法                |                exampleS                 |
 | :---------------------------------------: | :-------------------------------------: |
@@ -84,8 +78,6 @@
 |                 [RMSprop]                 |                                         |
 |                [AdaDelta]                 |                                         |
 |                  [Adam]                   |                                         |
-
-
 
 ## NLP
 
