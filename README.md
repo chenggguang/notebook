@@ -9,7 +9,7 @@
 笔记的参考内容包括但不限于：
 
 - 李航<<统计学习方法>>第二版
-- 邱锡鹏<<神经网络与深度学习>>
+- 邱锡鹏[<<神经网络与深度学习>>](https://nndl.github.io/)
 - B站[白板推导](https://www.bilibili.com/video/BV1aE411o7qd)系列
 - 知乎上的一些专栏或者回答
 
@@ -55,8 +55,6 @@
 
 ​				
 
-
-
 ### 序列标注问题
 
 |               模型 Or 算法               | ExAMPles                                                     |
@@ -70,43 +68,43 @@
 
 
 
-|    模型 or 算法     | exampleS |
-| :-----------------: | :------: |
-|   [前馈神经网络]    |          |
-|   [卷积神经网络]    |          |
-|   [循环神经网络]    |          |
-|  [长短期记忆网络]   |          |
-| [Attention Machism] |          |
-|    [Transformer]    |          |
-| [Evalution Method]  |          |
-|        [GRU]        |          |
-|    [梯度下降法]     |          |
-|      [动量法]       |          |
-|      [AdaGrad]      |          |
-|      [RMSprop]      |          |
-|     [AdaDelta]      |          |
-|       [Adam]        |          |
+|               模型 or 算法                | exampleS |
+| :---------------------------------------: | :------: |
+|       [前馈神经网络](dl/fnn.ipynb)        |          |
+|       [卷积神经网络](dl/cnn.ipynb)        |          |
+|       [循环神经网络](dl/rnn.ipynb)        |          |
+|      [长短期记忆网络](dl/lstm.ipynb)      |          |
+| [Attention Mechanism](dl/attention.ipynb) |          |
+|               [Transformer]               |          |
+|  [Evalution Method](dl/evalution.ipynb)   |          |
+|                   [GRU]                   |          |
+|               [梯度下降法]                |          |
+|                 [动量法]                  |          |
+|                 [AdaGrad]                 |          |
+|                 [RMSprop]                 |          |
+|                [AdaDelta]                 |          |
+|                  [Adam]                   |          |
 
 
 
 ## NLP
 
-|   模型 OR算法    | ExAMPLE |
-| :--------------: | :-----: |
-|      [分词]      |         |
-| [Language Model] |         |
-|   [PerPlexity]   |         |
-|  [Sequence Tag]  |         |
-| [Word Embedding] |         |
-|    [fastText]    |         |
-|     [GloVe]      |         |
-|    [编辑距离]    |         |
-|     [近义词]     |         |
-|    [文本分类]    |         |
-|    [信息抽取]    |         |
-|    [文本摘要]    |         |
-|    [seq2seq]     |         |
-|                  |         |
+|                模型 OR算法                 | ExAMPLE |
+| :----------------------------------------: | :-----: |
+|                   [分词]                   |         |
+| [Language Model](nlp/language_model.ipynb) |         |
+|     [PerPlexity](nlp/perplexity.ipynb)     |         |
+|               [Sequence Tag]               |         |
+|              [Word Embedding]              |         |
+|                 [fastText]                 |         |
+|                  [GloVe]                   |         |
+|                 [编辑距离]                 |         |
+|                  [近义词]                  |         |
+|                 [文本分类]                 |         |
+|                 [信息抽取]                 |         |
+|                 [文本摘要]                 |         |
+|                 [seq2seq]                  |         |
+|                                            |         |
 
 
 
