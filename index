@@ -1,21 +1,34 @@
 .
 ├── README.md
 ├── code
-│   └── ml
-│       ├── 1_linear_regression.ipynb
-│       ├── 2_logistic_regression.ipynb
-│       ├── 3_naive_bayes.ipynb
-│       ├── 4_svm.ipynb
-│       ├── 5_hmm.ipynb
-│       ├── 6_lasso.ipynb
-│       └── 7_ridge.ipynb
+│   ├── dl
+│   │   └── 1_fnn.ipynb
+│   ├── ml
+│   │   ├── 1_linear_regression.ipynb
+│   │   ├── 2_logistic_regression.ipynb
+│   │   ├── 3_naive_bayes.ipynb
+│   │   ├── 4_svm.ipynb
+│   │   ├── 5_hmm.ipynb
+│   │   ├── 6_lasso.ipynb
+│   │   └── 7_ridge.ipynb
+│   └── pytorch
+│       ├── 1_tensor.ipynb
+│       ├── 2_try_neural_network.ipynb
+│       ├── 3_data_prepare.ipynb
+│       ├── 4_summary.ipynb
+│       ├── 5_embedding.ipynb
+│       ├── 6_LSTM.ipynb
+│       ├── README.md
+│       └── example.jpeg
 ├── dl
+│   ├── attention.ipynb
 │   ├── cnn.ipynb
 │   ├── evalution.ipynb
 │   ├── fnn.ipynb
 │   ├── gru.ipynb
 │   ├── imgs
-│   │   └── eva1.gif
+│   │   ├── eva1.gif
+│   │   └── fnn1.jpeg
 │   ├── lstm.ipynb
 │   ├── rnn.ipynb
 │   └── transformer.ipynb
@@ -44,4 +57,4 @@
     ├── language_model.ipynb
     └── perplexity.ipynb
 
-9 directories, 35 files
+11 directories, 46 files

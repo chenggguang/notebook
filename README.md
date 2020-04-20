@@ -68,22 +68,22 @@
 
 
 
-|               模型 or 算法                | exampleS |
-| :---------------------------------------: | :------: |
-|       [前馈神经网络](dl/fnn.ipynb)        |          |
-|       [卷积神经网络](dl/cnn.ipynb)        |          |
-|       [循环神经网络](dl/rnn.ipynb)        |          |
-|      [长短期记忆网络](dl/lstm.ipynb)      |          |
-| [Attention Mechanism](dl/attention.ipynb) |          |
-|               [Transformer]               |          |
-|  [Evalution Method](dl/evalution.ipynb)   |          |
-|                   [GRU]                   |          |
-|               [梯度下降法]                |          |
-|                 [动量法]                  |          |
-|                 [AdaGrad]                 |          |
-|                 [RMSprop]                 |          |
-|                [AdaDelta]                 |          |
-|                  [Adam]                   |          |
+|               模型 or 算法                |                exampleS                 |
+| :---------------------------------------: | :-------------------------------------: |
+|       [前馈神经网络](dl/fnn.ipynb)        | [numpy实现简单FNN](code/dl/1_fnn.ipynb) |
+|       [卷积神经网络](dl/cnn.ipynb)        |                                         |
+|       [循环神经网络](dl/rnn.ipynb)        |                                         |
+|      [长短期记忆网络](dl/lstm.ipynb)      |                                         |
+| [Attention Mechanism](dl/attention.ipynb) |                                         |
+|               [Transformer]               |                                         |
+|  [Evalution Method](dl/evalution.ipynb)   |                                         |
+|                   [GRU]                   |                                         |
+|               [梯度下降法]                |                                         |
+|                 [动量法]                  |                                         |
+|                 [AdaGrad]                 |                                         |
+|                 [RMSprop]                 |                                         |
+|                [AdaDelta]                 |                                         |
+|                  [Adam]                   |                                         |
 
 
 
