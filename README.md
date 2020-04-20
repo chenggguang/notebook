@@ -16,27 +16,44 @@
 
 [Likehood][math/likehood.ipynb]在很多机器学习算法的公式推导中，优化的目标都是一个MLE或者MAP的表达式。
 
-//todo 正则化添加文件链接
-
-
+[Smoothing](math/smoothing.ipynb)  //todo 为语言模型添加链接
 
 ## 机器学习
 
-[线性回归](ml/linear_regression.ipynb)是回归类问题中的一个经典算法，原理简单，在[代码](code/1_linear_regression.ipynb)上也及容易实现。同属于回归问题的还有[LASSO](ml/lasso.ipynb)和[Ridge](ml/ridge_regression.ipynb)，他们是普通线性回归经过L1和L2[正则化](ml/regularization.ipynb)后的模型。
 
-说到回归，就不得不提一下[逻辑回归](ml/logistic_regression.ipynb), 当然，逻辑回归不是回归，而是解决分类的问题。
-
-[朴素贝叶斯](ml/naive_bayes.ipynb)
-
-[Smoothing]
-
-[支持向量机](ml/svm.ipynb)是机器学习算法中，分类效果极好的一种，可以调用sklearn[实现](code/4_svm.ipynb)
 
 [EM](ml/em.ipynb)
 
-[隐马尔可夫模型](ml/hmm.ipynb)在序列标注任务上应用广泛。
+[Regularization](ml/regularization.ipynb)
 
-[条件随机场]
+### 回归类问题
+
+|                  模型 or 算法                   |                                          examplee |
+| :---------------------------------------------: | ------------------------------------------------: |
+| [Linear Regression](ml/linear_regression.ipynb) | [pytorch exmaple](code/1_linear_regression.ipynb) |
+|             [LASSO](ml/lasso.ipynb)             |          [Coordinate Descent](code/6_lasso.ipynb) |
+|  [Ridge Regression](ml/ridge_regression.ipynb)  |                    [解析式法](code/7_ridge.ipynb) |
+
+
+
+### 分类问题
+
+|                    模型 or 算法                     |                       EXamples                       |
+| :-------------------------------------------------: | :--------------------------------------------------: |
+| [Logistic Regression](ml/logistic_regression.ipynb) | [pytorch example](code/2_logistic_regression.ipynb/) |
+|         [Naive Bayes](ml/naive_bayes.ipynb)         |      [pandas example](code/3_naive_bayes.ipynb)      |
+|       [Support Vector Machine](ml/svm.ipynb)        |       [sklearn api example](code/4_svm.ipynb)        |
+
+​				
+
+
+
+### 序列标注问题
+
+|               模型 Or 算法               | ExAMPles                          |
+| :--------------------------------------: | --------------------------------- |
+|   [Hidden Markov Model](ml/hmm.ipynb)    | [numpy example](code/5_hmm.ipynb) |
+| [Conditional Random Field](ml/crf.ipynb) | None                              |
 
 
 
