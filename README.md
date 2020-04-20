@@ -17,9 +17,11 @@
 
 如果需要直接查看整个仓库包含了那些文件可以参数[index](index), 或者在终端中使用tree工具。
 
+本笔记在深度学习和NLP部分的代码多用[pytorch](https://pytorch.org)实现，对该框架不熟悉的情况查看code/pytorch中的六个笔记。
+
 ## 数学基础
 
-[矩阵求导](math/derivative.ipynb)、是我们应该掌握的知识，这是机器学习和深度学习的数学基础。
+[矩阵求导](math/derivative.ipynb)是我们应该掌握的知识，这是机器学习和深度学习的数学基础。
 
 [softmax](math/softmax.ipynb)在数据归一化已经分类问题中有着广泛的应用本笔记将其与交叉熵结合，并推到了其求导公式。
 
@@ -81,22 +83,22 @@
 
 ## NLP
 
-|                模型 OR算法                 | ExAMPLE |
-| :----------------------------------------: | :-----: |
-|                   [分词]                   |         |
-| [Language Model](nlp/language_model.ipynb) |         |
-|     [PerPlexity](nlp/perplexity.ipynb)     |         |
-|               [Sequence Tag]               |         |
-|              [Word Embedding]              |         |
-|                 [fastText]                 |         |
-|                  [GloVe]                   |         |
-|                 [编辑距离]                 |         |
-|                  [近义词]                  |         |
-|                 [文本分类]                 |         |
-|                 [信息抽取]                 |         |
-|                 [文本摘要]                 |         |
-|                 [seq2seq]                  |         |
-|                                            |         |
+|                模型 OR算法                 |   ExAMPLE    |
+| :----------------------------------------: | :----------: |
+|                   [分词]                   |              |
+| [Language Model](nlp/language_model.ipynb) |              |
+|     [PerPlexity](nlp/perplexity.ipynb)     |              |
+|               [Sequence Tag]               |              |
+|              [Word Embedding]              |              |
+|                 [fastText]                 |              |
+|                  [GloVe]                   |              |
+|    [编辑距离](nlp/edit_distance.ipynb)     | 在同一文件内 |
+|                                            |              |
+|                 [文本分类]                 |              |
+|                 [信息抽取]                 |              |
+|                 [文本摘要]                 |              |
+|                 [seq2seq]                  |              |
+|                                            |              |
 
 
 
