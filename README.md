@@ -39,7 +39,7 @@
 
 ### 回归类问题
 
-|                  模型 or 算法                   |                                             examplee |
+|                  模型 OR 算法                   |                                             example |
 | :---------------------------------------------: | ---------------------------------------------------: |
 | [Linear Regression](ml/linear_regression.ipynb) | [pytorch exmaple](code/ml/1_linear_regression.ipynb) |
 |             [LASSO](ml/lasso.ipynb)             |          [Coordinate Descent](code/ml/6_lasso.ipynb) |
@@ -47,7 +47,7 @@
 
 ### 分类问题
 
-|                    模型 or 算法                     |                        EXamples                         |
+|                    模型 OR 算法                     |                        example                         |
 | :-------------------------------------------------: | :-----------------------------------------------------: |
 | [Logistic Regression](ml/logistic_regression.ipynb) | [pytorch example](code/ml/2_logistic_regression.ipynb/) |
 |         [Naive Bayes](ml/naive_bayes.ipynb)         |      [pandas example](code/ml/3_naive_bayes.ipynb)      |
@@ -57,7 +57,7 @@
 
 ### 序列标注问题
 
-|               模型 Or 算法               | ExAMPles                                                     |
+|               模型 OR 算法               | example                                                     |
 | :--------------------------------------: | ------------------------------------------------------------ |
 |   [Hidden Markov Model](ml/hmm.ipynb)    | [numpy example](code/ml/5_hmm.ipynb)                         |
 | [Conditional Random Field](ml/crf.ipynb) | [LSTM + CRF](http://pytorch123.com/FifthSection/Dynamic_Desicion_Bi-LSTM/) |
