@@ -3,6 +3,7 @@
 ├── code
 │   ├── dl
 │   │   └── 1_fnn.ipynb
+│   ├── matplotlib
 │   ├── ml
 │   │   ├── 1_linear_regression.ipynb
 │   │   ├── 2_logistic_regression.ipynb
@@ -11,6 +12,8 @@
 │   │   ├── 5_hmm.ipynb
 │   │   ├── 6_lasso.ipynb
 │   │   └── 7_ridge.ipynb
+│   ├── numpy
+│   ├── pandas
 │   └── pytorch
 │       ├── 1_tensor.ipynb
 │       ├── 2_try_neural_network.ipynb
@@ -25,10 +28,13 @@
 │   ├── cnn.ipynb
 │   ├── evalution.ipynb
 │   ├── fnn.ipynb
+│   ├── gdm.ipynb
 │   ├── gru.ipynb
 │   ├── imgs
 │   │   ├── eva1.gif
-│   │   └── fnn1.jpeg
+│   │   ├── fnn1.jpeg
+│   │   ├── gru1.png
+│   │   └── lstm1.png
 │   ├── lstm.ipynb
 │   ├── rnn.ipynb
 │   └── transformer.ipynb
@@ -58,4 +64,4 @@
     ├── language_model.ipynb
     └── perplexity.ipynb
 
-11 directories, 47 files
+14 directories, 50 files

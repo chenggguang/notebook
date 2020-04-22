@@ -17,17 +17,24 @@
 
 如果需要直接查看整个仓库包含了那些文件可以参数[index](index), 或者在终端中使用tree工具。
 
-本笔记在深度学习和NLP部分的代码多用[pytorch](https://pytorch.org)实现，对该框架不熟悉的情况查看code/pytorch中的六个笔记。
+## 工具
+
+工欲善其事，必先利其器。掌握基础的工具才能让你实现想法的时候游刃有余
+
+- Numpy 
+- Pandas
+- Matplotlib
+- [PyTorch](code/pytorch)
 
 ## 数学基础
 
-[矩阵求导](math/derivative.ipynb)是我们应该掌握的知识，这是机器学习和深度学习的数学基础。
+|               方法                | 代码示例或者说明 |
+| :-------------------------------: | :--------------: |
+| [矩阵求导](math/derivative.ipynb) |                  |
+|   [softmax](math/softmax.ipynb)   |                  |
+|  [Likehood](math/likehood.ipynb)  |                  |
+| [Smoothing](math/smoothing.ipynb) |                  |
 
-[softmax](math/softmax.ipynb)在数据归一化已经分类问题中有着广泛的应用本笔记将其与交叉熵结合，并推到了其求导公式。
-
-[Likehood](math/likehood.ipynb)在很多机器学习算法的公式推导中，优化的目标都是一个MLE或者MAP的表达式。
-
-[Smoothing](math/smoothing.ipynb) 是为了平滑经过MLE或者MAP估计的参数。
 
 ## 机器学习
 
@@ -64,7 +71,7 @@
 
 ## 深度学习
 
-|               模型 or 算法                |                exampleS                 |
+|               模型 or 算法                |                 example                 |
 | :---------------------------------------: | :-------------------------------------: |
 |       [前馈神经网络](dl/fnn.ipynb)        | [numpy实现简单FNN](code/dl/1_fnn.ipynb) |
 |       [卷积神经网络](dl/cnn.ipynb)        |                                         |
@@ -73,13 +80,18 @@
 | [Attention Mechanism](dl/attention.ipynb) |                                         |
 |               [Transformer]               |                                         |
 |  [Evalution Method](dl/evalution.ipynb)   |                                         |
-|                   [GRU]                   |                                         |
-|               [梯度下降法]                |                                         |
+|            [GRU](dl/gru.ipynb)            |                                         |
+|               [参数初始化]                |                                         |
+|               [网络归一化]                |                                         |
+|               [超参数优化]                |                                         |
+|                                           |                                         |
+|  [Gradient Descent Method](dl/gdm.ipynb)  |                                         |
 |                 [动量法]                  |                                         |
 |                 [AdaGrad]                 |                                         |
 |                 [RMSprop]                 |                                         |
 |                [AdaDelta]                 |                                         |
 |                  [Adam]                   |                                         |
+
 
 ## NLP
 
