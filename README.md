@@ -22,9 +22,14 @@
 工欲善其事，必先利其器。掌握基础的工具才能让你实现想法的时候游刃有余
 
 - Numpy 
+
 - Pandas
+
 - Matplotlib
-- [PyTorch](code/pytorch)
+
+- [PyTorch](https://pytorch.org)
+
+  [链接](code/pytorch)只指向的code/pytorch目录，该目录下有六个示例文件。涵盖了PyTorch中的一些基础概念，若需要更多信息，请查看pytorch官网。
 
 ## 数学基础
 
@@ -85,12 +90,7 @@
 |               [网络归一化]                |                                         |
 |               [超参数优化]                |                                         |
 |                                           |                                         |
-|  [Gradient Descent Method](dl/gdm.ipynb)  |                                         |
-|                 [动量法]                  |                                         |
-|                 [AdaGrad]                 |                                         |
-|                 [RMSprop]                 |                                         |
-|                [AdaDelta]                 |                                         |
-|                  [Adam]                   |                                         |
+|  [参数优化](dl/parameter_optimize.ipynb)  |                                         |
 
 
 ## NLP
