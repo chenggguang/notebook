@@ -2,7 +2,17 @@
 ├── README.md
 ├── code
 │   ├── dl
-│   │   └── 1_fnn.ipynb
+│   │   ├── 1_fnn.ipynb
+│   │   └── datasets
+│   │       └── cifar-10-batches-py
+│   │           ├── batches.meta
+│   │           ├── data_batch_1
+│   │           ├── data_batch_2
+│   │           ├── data_batch_3
+│   │           ├── data_batch_4
+│   │           ├── data_batch_5
+│   │           ├── readme.html
+│   │           └── test_batch
 │   ├── matplotlib
 │   ├── ml
 │   │   ├── 1_linear_regression.ipynb
@@ -28,7 +38,6 @@
 │   ├── cnn.ipynb
 │   ├── evalution.ipynb
 │   ├── fnn.ipynb
-│   ├── gdm.ipynb
 │   ├── gru.ipynb
 │   ├── imgs
 │   │   ├── eva1.gif
@@ -36,6 +45,7 @@
 │   │   ├── gru1.png
 │   │   └── lstm1.png
 │   ├── lstm.ipynb
+│   ├── parameter_optimize.ipynb
 │   ├── rnn.ipynb
 │   └── transformer.ipynb
 ├── index
@@ -64,4 +74,4 @@
     ├── language_model.ipynb
     └── perplexity.ipynb
 
-14 directories, 50 files
+16 directories, 58 files
