@@ -43,9 +43,11 @@
 │   │   ├── fnn1.jpeg
 │   │   ├── gru1.png
 │   │   ├── lstm1.png
+│   │   ├── para_init.png
 │   │   ├── tf1.png
 │   │   └── tf2.png
 │   ├── lstm.ipynb
+│   ├── parameter_init.ipynb
 │   ├── parameter_optimize.ipynb
 │   ├── rnn.ipynb
 │   └── transformer.ipynb
@@ -75,4 +77,4 @@
     ├── language_model.ipynb
     └── perplexity.ipynb
 
-16 directories, 59 files
+16 directories, 61 files
