@@ -94,20 +94,18 @@
 
 ## NLP
 
-|                模型 OR算法                 |   ExAMPLE    |
-| :----------------------------------------: | :----------: |
-|                   [分词]                   |              |
-| [Language Model](nlp/language_model.ipynb) |              |
-|     [PerPlexity](nlp/perplexity.ipynb)     |              |
-|               [Sequence Tag]               |              |
-|              [Word Embedding]              |              |
-|                 [fastText]                 |              |
-|                  [GloVe]                   |              |
-|    [编辑距离](nlp/edit_distance.ipynb)     | 在同一文件内 |
-|                 [文本分类]                 |              |
-|                 [信息抽取]                 |              |
-|                 [文本摘要]                 |              |
-|                 [seq2seq]                  |              |
+|                模型 OR算法                 |       ExAMPLE        |
+| :----------------------------------------: | :------------------: |
+|         [分词](word_segment.ipynb)         | 文件中自带了简单示例 |
+| [Language Model](nlp/language_model.ipynb) |                      |
+|     [PerPlexity](nlp/perplexity.ipynb)     |                      |
+|               [Sequence Tag]               |                      |
+|              [Word Embedding]              |                      |
+|    [编辑距离](nlp/edit_distance.ipynb)     |     在同一文件内     |
+|                 [文本分类]                 |                      |
+|                 [信息抽取]                 |                      |
+|                 [文本摘要]                 |                      |
+|                 [seq2seq]                  |                      |
 
 
 

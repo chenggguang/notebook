@@ -76,7 +76,10 @@
 │   └── svm.ipynb
 └── nlp
     ├── edit_distance.ipynb
+    ├── imgs
+    │   └── viterbi_segment.png
     ├── language_model.ipynb
-    └── perplexity.ipynb
+    ├── perplexity.ipynb
+    └── word_segment.ipynb
 
-16 directories, 63 files
+17 directories, 65 files
