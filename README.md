@@ -100,7 +100,7 @@
 |    [语言模型](nlp/language_model.ipynb)    |                                                              |
 |     [PerPlexity](nlp/perplexity.ipynb)     |                                                              |
 |       [序列标注](sequence_tag.ipynb)       | [LSTM + CRF](http://pytorch123.com/FifthSection/Dynamic_Desicion_Bi-LSTM/) |
-| [Word Embedding](nlp/word_embedding.ipynb) |                                                              |
+| [Word Embedding](nlp/word_embedding.ipynb) |     [一份简单的Skip gram示例](code/nlp/skip_gram.ipynb)      |
 |    [编辑距离](nlp/edit_distance.ipynb)     |                         在同一文件内                         |
 |                 [文本分类]                 |                                                              |
 |                 [信息抽取]                 |                                                              |
