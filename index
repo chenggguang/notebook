@@ -81,6 +81,7 @@
     ├── language_model.ipynb
     ├── perplexity.ipynb
     ├── sequence_tag.ipynb
+    ├── word_embedding.ipynb
     └── word_segment.ipynb
 
-17 directories, 66 files
+17 directories, 67 files
