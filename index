@@ -38,6 +38,7 @@
 │   ├── evalution.ipynb
 │   ├── fnn.ipynb
 │   ├── gru.ipynb
+│   ├── hyperparameter_optimization.ipynb
 │   ├── imgs
 │   │   ├── eva1.gif
 │   │   ├── fnn1.jpeg
@@ -47,6 +48,7 @@
 │   │   ├── tf1.png
 │   │   └── tf2.png
 │   ├── lstm.ipynb
+│   ├── normalization.ipynb
 │   ├── parameter_init.ipynb
 │   ├── parameter_optimize.ipynb
 │   ├── rnn.ipynb
@@ -77,4 +79,4 @@
     ├── language_model.ipynb
     └── perplexity.ipynb
 
-16 directories, 61 files
+16 directories, 63 files
