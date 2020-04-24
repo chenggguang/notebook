@@ -76,19 +76,19 @@
 
 ## 深度学习
 
-|              模型 or 算法               |                           example                            |
-| :-------------------------------------: | :----------------------------------------------------------: |
-|      [前馈神经网络](dl/fnn.ipynb)       |           [numpy实现简单FNN](code/dl/1_fnn.ipynb)            |
-|      [卷积神经网络](dl/cnn.ipynb)       | [Pytorch官网示例总结](code/pytorch/2_try_neural_network.ipynb) |
-|      [循环神经网络](dl/rnn.ipynb)       |                                                              |
-|     [长短期记忆网络](dl/lstm.ipynb)     |       [PyTorch实现简单示例](code/pytorch/6_LSTM.ipynb)       |
-|   [Transformer](dl/transformer.ipynb)   | [The Annotated Transformer](https://github.com/harvardnlp/annotated-transformer)推荐必读 |
-| [Evalution Method](dl/evalution.ipynb)  |                                                              |
-| [参数优化](dl/parameter_optimize.ipynb) |                                                              |
-|           [GRU](dl/gru.ipynb)           |                                                              |
-|  [参数初始化](dl/parameter_init.ipynb)  |                                                              |
-|              [网络归一化]               |                                                              |
-|              [超参数优化]               |                                                              |
+|                    模型 or 算法                    |                           example                            |
+| :------------------------------------------------: | :----------------------------------------------------------: |
+|            [前馈神经网络](dl/fnn.ipynb)            |           [numpy实现简单FNN](code/dl/1_fnn.ipynb)            |
+|            [卷积神经网络](dl/cnn.ipynb)            | [Pytorch官网示例总结](code/pytorch/2_try_neural_network.ipynb) |
+|            [循环神经网络](dl/rnn.ipynb)            |                                                              |
+|          [长短期记忆网络](dl/lstm.ipynb)           |       [PyTorch实现简单示例](code/pytorch/6_LSTM.ipynb)       |
+|        [Transformer](dl/transformer.ipynb)         | [The Annotated Transformer](https://github.com/harvardnlp/annotated-transformer)推荐必读 |
+|       [Evalution Method](dl/evalution.ipynb)       |                                                              |
+|      [参数优化](dl/parameter_optimize.ipynb)       |                                                              |
+|                [GRU](dl/gru.ipynb)                 |                                                              |
+|       [参数初始化](dl/parameter_init.ipynb)        |                                                              |
+|        [网络归一化](dl/normalization.ipynb)        |                                                              |
+| [超参数优化](dl/hyperparameter_optimization.ipynb) |                                                              |
 
 
 
@@ -104,7 +104,6 @@
 |                 [fastText]                 |              |
 |                  [GloVe]                   |              |
 |    [编辑距离](nlp/edit_distance.ipynb)     | 在同一文件内 |
-|                                            |              |
 |                 [文本分类]                 |              |
 |                 [信息抽取]                 |              |
 |                 [文本摘要]                 |              |
