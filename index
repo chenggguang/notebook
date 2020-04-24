@@ -80,6 +80,7 @@
     │   └── viterbi_segment.png
     ├── language_model.ipynb
     ├── perplexity.ipynb
+    ├── sequence_tag.ipynb
     └── word_segment.ipynb
 
-17 directories, 65 files
+17 directories, 66 files
