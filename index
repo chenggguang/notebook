@@ -81,9 +81,9 @@
     ├── imgs
     │   └── viterbi_segment.png
     ├── language_model.md
-    ├── perplexity.ipynb
-    ├── sequence_tag.ipynb
-    ├── word_embedding.ipynb
+    ├── perplexity.md
+    ├── sequence_tag.md
+    ├── word_embedding.md
     └── word_segment.ipynb
 
 18 directories, 68 files

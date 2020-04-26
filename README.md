@@ -84,10 +84,10 @@
 | :----------------------------------------: | :----------------------------------------------------------: |
 |         [分词](word_segment.ipynb)         |                     文件中自带了简单示例                     |
 |    [语言模型](nlp/language_model.md)    |                                                              |
-|     [PerPlexity](nlp/perplexity.ipynb)     |                                                              |
-|       [序列标注](sequence_tag.ipynb)       | [LSTM + CRF](http://pytorch123.com/FifthSection/Dynamic_Desicion_Bi-LSTM/) |
-| [Word Embedding](nlp/word_embedding.ipynb) |     [一份简单的Skip gram示例](code/nlp/skip_gram.ipynb)      |
-|    [编辑距离](nlp/edit_distance.ipynb)     |                         在同一文件内                         |
+|     [PerPlexity](nlp/perplexity.md)     |                                                              |
+|       [序列标注](sequence_tag.md)       | [LSTM + CRF](http://pytorch123.com/FifthSection/Dynamic_Desicion_Bi-LSTM/) |
+| [Word Embedding](nlp/word_embedding.md) |     [一份简单的Skip gram示例](code/nlp/skip_gram.ipynb)      |
+|    [编辑距离](nlp/edit_distance.md)     |                         在同一文件内                         |
 |                 [文本分类]                 |                                                              |
 |                 [信息抽取]                 |                                                              |
 |                 [文本摘要]                 |                                                              |
