@@ -49,28 +49,14 @@
 
 [Regularization](ml/regularization.ipynb)是机器学习和深度学习算法都需要处理的问题，目的是防止模型过拟合。
 
-### 回归类问题
-
 |                  模型 OR 算法                   |                                             example |
 | :---------------------------------------------: | ---------------------------------------------------: |
 | [Linear Regression](ml/linear_regression.ipynb) | [pytorch exmaple](code/ml/1_linear_regression.ipynb) |
 |             [LASSO](ml/lasso.ipynb)             |          [Coordinate Descent](code/ml/6_lasso.ipynb) |
 |  [Ridge Regression](ml/ridge_regression.ipynb)  |                    [解析式法](code/ml/7_ridge.ipynb) |
-
-### 分类问题
-
-|                    模型 OR 算法                     |                        example                         |
-| :-------------------------------------------------: | :-----------------------------------------------------: |
 | [Logistic Regression](ml/logistic_regression.ipynb) | [pytorch example](code/ml/2_logistic_regression.ipynb/) |
 |         [Naive Bayes](ml/naive_bayes.ipynb)         |      [pandas example](code/ml/3_naive_bayes.ipynb)      |
 |       [Support Vector Machine](ml/svm.ipynb)        |       [sklearn api example](code/ml/4_svm.ipynb)        |
-
-​				
-
-### 序列标注问题
-
-|               模型 OR 算法               | example                                                     |
-| :--------------------------------------: | ------------------------------------------------------------ |
 |   [Hidden Markov Model](ml/hmm.ipynb)    | [numpy example](code/ml/5_hmm.ipynb)                         |
 | [Conditional Random Field](ml/crf.ipynb) | [LSTM + CRF](http://pytorch123.com/FifthSection/Dynamic_Desicion_Bi-LSTM/) |
 
@@ -97,7 +83,7 @@
 |                模型 OR算法                 |                           ExAMPLE                            |
 | :----------------------------------------: | :----------------------------------------------------------: |
 |         [分词](word_segment.ipynb)         |                     文件中自带了简单示例                     |
-|    [语言模型](nlp/language_model.ipynb)    |                                                              |
+|    [语言模型](nlp/language_model.md)    |                                                              |
 |     [PerPlexity](nlp/perplexity.ipynb)     |                                                              |
 |       [序列标注](sequence_tag.ipynb)       | [LSTM + CRF](http://pytorch123.com/FifthSection/Dynamic_Desicion_Bi-LSTM/) |
 | [Word Embedding](nlp/word_embedding.ipynb) |     [一份简单的Skip gram示例](code/nlp/skip_gram.ipynb)      |

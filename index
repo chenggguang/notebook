@@ -22,6 +22,8 @@
 │   │   ├── 5_hmm.ipynb
 │   │   ├── 6_lasso.ipynb
 │   │   └── 7_ridge.ipynb
+│   ├── nlp
+│   │   └── skip_gram.ipynb
 │   ├── numpy
 │   ├── pandas
 │   └── pytorch
@@ -78,10 +80,10 @@
     ├── edit_distance.ipynb
     ├── imgs
     │   └── viterbi_segment.png
-    ├── language_model.ipynb
+    ├── language_model.md
     ├── perplexity.ipynb
     ├── sequence_tag.ipynb
     ├── word_embedding.ipynb
     └── word_segment.ipynb
 
-17 directories, 67 files
+18 directories, 68 files
