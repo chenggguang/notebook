@@ -23,7 +23,8 @@
 │   │   ├── 6_lasso.ipynb
 │   │   └── 7_ridge.ipynb
 │   ├── nlp
-│   │   └── skip_gram.ipynb
+│   │   ├── skip_gram.ipynb
+│   │   └── transformer_for_LM.ipynb
 │   ├── numpy
 │   ├── pandas
 │   └── pytorch
@@ -86,4 +87,4 @@
     ├── word_embedding.md
     └── word_segment.ipynb
 
-18 directories, 68 files
+18 directories, 69 files

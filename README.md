@@ -68,7 +68,7 @@
 |            [卷积神经网络](dl/cnn.ipynb)            | [Pytorch官网示例总结](code/pytorch/2_try_neural_network.ipynb) |
 |            [循环神经网络](dl/rnn.ipynb)            |                                                              |
 |          [长短期记忆网络](dl/lstm.ipynb)           |       [PyTorch实现简单示例](code/pytorch/6_LSTM.ipynb)       |
-|        [Transformer](dl/transformer.ipynb)         | [The Annotated Transformer](https://github.com/harvardnlp/annotated-transformer)推荐必读 |
+|        [Transformer](dl/transformer.ipynb)         | [The Annotated Transformer](https://github.com/harvardnlp/annotated-transformer)推荐必读，[语言模型](code/nlp/transformer_for_LM.ipynb) |
 |       [Evalution Method](dl/evalution.ipynb)       |                                                              |
 |      [参数优化](dl/parameter_optimize.ipynb)       |                                                              |
 |                [GRU](dl/gru.ipynb)                 |                                                              |
